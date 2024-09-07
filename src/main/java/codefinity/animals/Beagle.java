@@ -1,4 +1,6 @@
 package codefinity.animals;
 
-public class Beagle {
+public class Beagle extends Dog {
+
+
 }
